@@ -32,9 +32,9 @@ extension DailyScrum {
     [
         DailyScrum(title: "Design", attendees: ["Cathy", "Daisy", "Simon", "Jonathan"], lengthInMinutes: 10, theme: .yellow),
         DailyScrum(title: "App Dev", attendees: ["Katie", "Gray", "Euna", "Luis", "Darla"], lengthInMinutes: 5, theme: .orange),
-        DailyScrum(title: "Web Dev", attendees: ["Chella", "Chris", "Eden", "Karla", "Lindsey", "Aga", "Chad", "Jenn", "Sarah"], lengthInMinutes: 5, theme: .poppy),
-        DailyScrum(title: "Drochery", attendees: ["Cathy", "Daisy", "Simon", "Jonathan"], lengthInMinutes: 9, theme: .navy),
-        DailyScrum(title: "Love Dev", attendees: ["Artyoma", "Max"], lengthInMinutes: 50, theme: .tan),
+        //DailyScrum(title: "Web Dev", attendees: ["Chella", "Chris", "Eden", "Karla", "Lindsey", "Aga", "Chad", "Jenn", "Sarah"], lengthInMinutes: 5, theme: .poppy),
+        //DailyScrum(title: "Drochery", attendees: ["Cathy", "Daisy", "Simon", "Jonathan"], lengthInMinutes: 9, theme: .navy),
+        //DailyScrum(title: "Love Dev", attendees: ["Artyoma", "Max"], lengthInMinutes: 50, theme: .tan),
         DailyScrum(title: "System Analytics", attendees: ["Max", "Konst", "Alex", "Aga", "Chad", "Jenn", "Sarah"], lengthInMinutes: 15, theme: .sky)
     ]
 }
